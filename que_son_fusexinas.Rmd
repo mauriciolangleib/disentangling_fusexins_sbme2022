@@ -5,7 +5,7 @@ linktitle: ¿Qué son las fusexinas?
 title: "*Fusexinas*, una superfamilia de proteínas antiguas vinculadas al orígen de los eucariotas"
 type: docs
 weight: 1
-toc: true
+#toc: true
 output:
   prettydoc::html_pretty:
     theme: leonids
