@@ -1,19 +1,19 @@
 ---
-author: Mauricio Langleib
+author: ""
 draft: false
 linktitle: ¿Qué son las fusexinas?
-title: "*Fusexinas*, una superfamilia de proteínas antiguas vinculadas al orígen de los eucariotas"
+title: "*Fusexinas*: una superfamilia de proteínas antiguas vinculadas al orígen de los eucariotas"
 type: docs
 weight: 1
-#toc: true
 output:
   prettydoc::html_pretty:
     theme: leonids
+    toc: true
     highlight: github
 ---
 
 # ¿Qué son las _Fusexinas_?
-...
+![](imgs/meet_fusexins_spa.png)
 
 # Trabajos de relevancia
 ...
