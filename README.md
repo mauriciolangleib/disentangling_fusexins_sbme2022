@@ -1,0 +1,3 @@
+1. Ajustar imagen
+2. de Structura a Estructura
+3. Vinculadas al orígen de los eucariotas es mucho....
