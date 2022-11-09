@@ -142,8 +142,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="311.73263"
-     inkscape:cy="587.69782"
+     inkscape:cx="438.1612"
+     inkscape:cy="722.91215"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -180,7 +180,7 @@
          y="145.3459"
          style="stroke-width:0.26458332" /></text>
     <g
-       id="g906"
+       id="g910"
        inkscape:export-xdpi="400"
        inkscape:export-ydpi="400">
       <circle
@@ -347,28 +347,28 @@
         </g>
       </g>
       <g
-         transform="translate(1.0583333)"
-         id="g668">
+         transform="translate(3.7041668)"
+         id="g620">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="95.941795"
+           x="93.998375"
            y="75.241379"
            id="text2959"><tspan
              sodipodi:role="line"
              id="tspan2957"
-             x="95.941795"
+             x="93.998375"
              y="75.241379"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.26458332">Virus</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="78.597015"
+           x="79.65535"
            y="81.722389"
            id="text2959-3"><tspan
              sodipodi:role="line"
              id="tspan2957-8"
-             x="78.597015"
+             x="79.65535"
              y="81.722389"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166746px;font-family:ubuntu;-inkscape-font-specification:'ubuntu Italic';stroke-width:0.26458332">Invasión del huésped</tspan></text>
       </g>
@@ -1600,7 +1600,7 @@
         </g>
       </g>
       <g
-         transform="translate(3.5469108)"
+         transform="translate(20.480251)"
          id="g616">
         <text
            xml:space="preserve"
