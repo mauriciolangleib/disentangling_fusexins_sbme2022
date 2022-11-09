@@ -13,19 +13,23 @@ output:
 ---
 
 # ¿Qué son las _Fusexinas_?
-![](imgs/meet_fusexins_spa.png)
 
-# Trabajos de relevancia
-...
+> parrafo inicial
+
+![](imgs/meet_fusexins_spa.png){width="75%"}
+
+# Algunos trabajos de relevancia
+- HAP2/GCS1 2017 + Fedry + etc... (como un extra)
+- Moi et al 2022
+- The EVE
+- The egg or the virus
 
 # _Fusexinas_ en la prensa
-...
+- [_A billion years before sex, ancient cells were equipped for it_](https://www.quantamagazine.org/ancient-cells-had-sex-fusion-proteins-long-before-sex-evolved-20220216/). Una nota de la revista ***Quanta magazine*** en la que...
+- ladiaria
+- Entrevista a David y Pablo
+- Entrevista Karolinska
+- Entrevista Haifa
 
-# ¿Qué esperás? ¡Hacé tu tesina de grado sobre las _Fusexinas_!
-...
-
-## ¿Qué voy a aprender en esta pasantía?
-...
-
-## ¿Qué puertas me abre?
+# ¿Te interesa el tema? ¡Colaborá con nosotros y sumate a estudiar a las _Fusexinas_!
 ...
