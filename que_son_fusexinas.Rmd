@@ -16,7 +16,7 @@ output:
 
 > parrafo inicial
 
-![](imgs/meet_fusexins_spa.png){width="90%"}
+![](imgs/meet_fusexins_spa.png){width="80%"}
 
 # Algunos trabajos de relevancia
 - HAP2/GCS1 2017 + Fedry + etc... (como un extra)
