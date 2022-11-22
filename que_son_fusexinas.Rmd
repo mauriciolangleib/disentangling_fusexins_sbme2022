@@ -15,40 +15,40 @@ output:
 # ¿Qué son las _Fusexinas_?
 
 Si usted no es un clon, su vida como individuo físico comenzó con la fusión de dos células. 
-La fusión de membranas es un proceso central en biología: genera nuevos individuos fusionando gametos, construye epitelios multinucleados tales como músculo y placenta. 
-También posibilita el transporte intracelular, la entrada a la célula de virus
-envueltos y muchas variantes de estos fenómenos. Durante la evolución, la fusión de
-membranas habilitó la formación de la célula eucariota, la adquisición de mitocondrias
-y cloroplastos. Notablemente, con más de 100 años de estudio, la maquinaria que
-fusiona al espermatozoide y óvulo en vertebrados sigue sin conocerse.La fusión de
-membranas es termodinámicamente desfavorable y requiere una maquinaria ad hoc.
-Numerosas proteínas que habilitan la fusión, llamadas fusógenos han sido descritas y
-clasificadas. Hemos anteriormente predicho y validado experimentalmente un
-fusógeno eucariota responsable de la fusión de gametos.Encontramos que este
-fusógeno es homólogo a los fusógenos de clase II de virus envueltos revelando un
-antiguo intercambio entre virus y eucariotas, con importantes consecuencias para el 
-origen del sexo, punto de inflexión en la evolución de la complejidad celular. Nuestros
-resultados hoy muestran que estos fusógenos existen en Arquea, enriqueciendo el
-panorama.En este proyecto nos proponemos comprender estos intercambios en los
-albores de la vida celular, integrando minería de datos con herramientas de
-bioinformática estructural y genómica computacional. A un tiempo, describiremos la
-historia evolutiva de los fusógenos y las fuerzas que moldean la misma, e
-identificaremos nuevos candidatos a ser validados experimentalmente.
+
+La fusión de membranas es un proceso central en biología: genera nuevos individuos fusionando gametos, construye epitelios multinucleados tales como músculo y placenta. También posibilita el transporte intracelular, la entrada a la célula de virus envueltos y muchas variantes de estos fenómenos. Durante la evolución, la fusión de membranas habilitó la formación de la célula eucariota, la adquisición de mitocondrias y cloroplastos. 
+
+Notablemente, con más de 100 años de estudio, la maquinaria que fusiona al espermatozoide y óvulo en vertebrados sigue sin conocerse.La fusión de
+membranas es termodinámicamente desfavorable y requiere una maquinaria *ad hoc*.
+
+Numerosas proteínas que habilitan la fusión, llamadas fusógenos han sido descritas y clasificadas. 
 
 ![](imgs/meet_fusexins_spa.png){width="90%"}
 
+Hemos anteriormente predicho y validado experimentalmente un fusógeno eucariota responsable de la fusión de gametos.Encontramos que este fusógeno es homólogo a los fusógenos de clase II de virus envueltos revelando un antiguo intercambio entre virus y eucariotas, con importantes consecuencias para el  origen del sexo, punto de inflexión en la evolución de la complejidad celular. Nuestros
+resultados hoy muestran que estos fusógenos existen en Arquea, enriqueciendo el
+panorama. 
+
+En este proyecto nos proponemos comprender estos intercambios en los albores de la vida celular, integrando minería de datos con herramientas de bioinformática estructural y genómica computacional. A un tiempo, describiremos la historia evolutiva de los fusógenos y las fuerzas que moldean la misma, e identificaremos nuevos candidatos a ser validados experimentalmente.
+> Modificar la parte final
+
 # Algunos trabajos de relevancia
-- HAP2/GCS1 2017 + Fedry + etc... (como un extra)
-- Moi et al 2022
-- The EVE
-- The egg or the virus
+- [***Arabidopsis* HAP2/GCS1 is a gamete fusion protein homologous to somatic and viral fusogens**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5350521/pdf/JCB_201610093.pdf) 
+- [The ancient gamete fusogen HAP2 is a eukaryotic class II fusion protein](https://www.cell.com/action/showPdf?pii=S0092-8674%2817%2930109-5)
+- [Structure-function studies link class II virus fusogens with the ancestral gamete fusion protein HAP2](https://www.cell.com/action/showPdf?pii=S0960-9822%2817%2930084-2)
+- [What came first, the virus or the egg?](https://www.cell.com/cell/pdf/S0092-8674(17)30190-3.pdf)
+- [HAP2/GCS1: Mounting evidence of our true biological EVE?](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000007&type=printable)
+- [**Discovery of archaeal fusexins homologous to eukaryotic HAP2/GCS1 gamete fusion proteins**](https://www.nature.com/articles/s41467-022-31564-1)
+
+> **Nota**: los artículos marcados en negrita fueron publicados por nuestro grupo de investigación en colaboración con otros laboratorios de Argentina, Suiza, Suecia e Israel.
+
 
 # _Fusexinas_ en la prensa
 - [_A billion years before sex, ancient cells were equipped for it_](https://www.quantamagazine.org/ancient-cells-had-sex-fusion-proteins-long-before-sex-evolved-20220216/). Una nota de la revista ***Quanta magazine*** en la que...
-- ladiaria
-- Entrevista a David y Pablo
-- Entrevista Karolinska
-- Entrevista Haifa
+- [_Si te gusta el sexo, tal vez tendrías que darles las gracias a las arqueas_](https://ladiaria.com.uy/ciencia/articulo/2022/7/si-te-gusta-el-sexo-tal-vez-tendrias-que-darles-las-gracias-a-las-arqueas/).
+- [_Científicos del CONICET lideran estudio que arroja luz sobre el origen de la reproducción sexual_](https://www.conicet.gov.ar/cientificos-del-conicet-lideran-estudio-que-arroja-luz-sobre-el-origen-de-la-reproduccion-sexual/).
+- [_A molecule from ancient bacteria-like cells may shed new light on sexual reproduction_](https://news.ki.se/a-molecule-from-ancient-bacteria-like-cells-may-shed-new-light-on-sexual-reproduction).
+- [_Technion researchers and international colleagues hypothesize that the cellular mechanisms enabling the fusion of sperm cells and egg cells originated 3 billion years ago_](https://www.technion.ac.il/en/2022/07/primordial-sexual-reproduction/).
 
 # ¿Te interesa el tema? ¡Colaborá con nosotros y sumate a estudiar a las _Fusexinas_!
 ...
