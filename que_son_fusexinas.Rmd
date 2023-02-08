@@ -12,25 +12,41 @@ output:
     highlight: github
 ---
 
-# ¿Qué son las _Fusexinas_?
+# Fusión de membranas: un proceso fundamental
 
-Si usted no es un clon, su vida como individuo físico comenzó con la fusión de dos células. 
+La vida tal como la conocemos depende en gran medida de membranas celulares. La existencia misma de células requiere por definición de la compartimentalización que brindan estas membranas. La aparición y evolución de distintos tipos celulares que tuvo lugar desde la aparición de las primeras células (estimado hace … millones de años) hasta la actualidad tiene en gran parte su base en la dinámica de interacción y fusión que adquirieron estas células y los distintos compartimentos que se encuentran delimitados dentro de ellas. Una variedad de fenómenos clave dependen de la fusión de membranas, como por ejemplo el transporte intra y extracelular (permitiendo la adquisición y expulsión de nutrientes, o la comunicación celular), la formación del tejido muscular o la invasión de células por parte de virus envueltos. Sin ir más lejos el sexo. una característica eucariota definitoria, tiene su base en la fusión de gametos.
 
-La fusión de membranas es un proceso central en biología: genera nuevos individuos fusionando gametos, construye epitelios multinucleados tales como músculo y placenta. También posibilita el transporte intracelular, la entrada a la célula de virus envueltos y muchas variantes de estos fenómenos. Durante la evolución, la fusión de membranas habilitó la formación de la célula eucariota, la adquisición de mitocondrias y cloroplastos. 
+Estos eventos están lejos de ser completamente azarosos y espontáneos: proteínas denominadas **fusógenos** son parte de la maquinaria celular *ad hoc* que cataliza estas fusiones termodinámicamente desfavorables. La especificidad que brindan estos fusógenos celulares es la base para la organización del incesante, y a primera vista caótico, baile de membranas que subyace a la vida.
 
-Notablemente, con más de 100 años de estudio, la maquinaria que fusiona al espermatozoide y óvulo en vertebrados sigue sin conocerse.La fusión de
-membranas es termodinámicamente desfavorable y requiere una maquinaria *ad hoc*.
+# Búsqueda de fusógenos por métodos computacionales
 
-Numerosas proteínas que habilitan la fusión, llamadas fusógenos han sido descritas y clasificadas. 
+![](imgs/esquema_busqueda.png){width="90%"}
+
+Estudios recientes de nuestro grupo de trabajo y colaboradores permitieron predecir y validar experimentalmente un fusógeno eucariota responsable de la fusión de gametos. Encontramos que este fusógeno es homólogo a los fusógenos de clase II de virus envueltos revelando un antiguo intercambio entre virus y eucariotas.
 
 ![](imgs/meet_fusexins_spa.png){width="90%"}
 
-Hemos anteriormente predicho y validado experimentalmente un fusógeno eucariota responsable de la fusión de gametos.Encontramos que este fusógeno es homólogo a los fusógenos de clase II de virus envueltos revelando un antiguo intercambio entre virus y eucariotas, con importantes consecuencias para el  origen del sexo, punto de inflexión en la evolución de la complejidad celular. Nuestros
-resultados hoy muestran que estos fusógenos existen en Arquea, enriqueciendo el
-panorama. 
+Este hallazgo tiene importantes consecuencias para la formulación de preguntas evolutivas relativas al origen del sexo, un punto de inflexión en la evolución de la complejidad celular. Lo que es más, nuestros resultados hoy muestran que estos fusógenos existen en Archaea, enriqueciendo el panorama. ¿Fue el sexo una invención arqueana, viral o eucariota? ¿Qué función cumplen las fusexinas arqueanas?. Estas son preguntas que no tienen una respuesta clara a la fecha.
 
-En este proyecto nos proponemos comprender estos intercambios en los albores de la vida celular, integrando minería de datos con herramientas de bioinformática estructural y genómica computacional. A un tiempo, describiremos la historia evolutiva de los fusógenos y las fuerzas que moldean la misma, e identificaremos nuevos candidatos a ser validados experimentalmente.
-> Modificar la parte final
+El panorama es aún más enigmático en otros casos. A modo de ejemplo, se desconocen fusógenos sexuales en hongos o vertebrados. Otros fusógenos celulares descritos en la literatura también carecen de un estudio exhaustivo tanto en lo referente a su distribución como a su dinámica evolutiva, lo cual es indispensable para poder comprender la evolución de algunos de los procesos biológicos antes nombrados. 
+
+La aparición de nuevas herramientas para la inferencia de modelos estructurales como AlphaFold2 resulta en este sentido revolucionaria, en tanto permiten la detección de homólogos remotos a partir del alineamiento de modelos estructurales. 
+
+# Pasantía de grado en el estudio de fusógenos celulares
+
+La persona interesada en realizar su pasantía en esta línea podrá definir uno o más fusógenos de interés para estudiar su distribución taxonómica y dinámica evolutiva. Se utilizarán herramientas vinculados a la inferencia y análisis filogenético a través del análisis de secuencia y, eventualmente, información de modelos estructurales.
+
+Durante el desarrollo de la pasantía de grado la persona aprenderá:
+
+- Utilización de la línea de comandos en entorno Linux.
+- Manejo de datos reproducibles (*e.g.* programación en notebooks, manejo de repositorios GitHub).
+- Programación básica y utilización de programas en los lenguajes bash, Python y/o R.
+
+Es de esperar que las herramientas adquiridas en biología computacional y análisis de datos biológicos desde una perspectiva evolutiva sirvan a él/la estudiante en el mediano y largo plazo sin importar el área en la cual elija desarrollarse a futuro.
+
+___
+**Si te interesa realizar tu pasantía de grado en este tema nos podés contactar a: mgrana@pasteur.edu.uy, eletor@fcien.edu.uy o mlangleib@pasteur.edu.uy**.
+___
 
 # Algunos trabajos de relevancia
 - [***Arabidopsis* HAP2/GCS1 is a gamete fusion protein homologous to somatic and viral fusogens**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5350521/pdf/JCB_201610093.pdf) 
@@ -50,5 +66,3 @@ En este proyecto nos proponemos comprender estos intercambios en los albores de 
 - [_A molecule from ancient bacteria-like cells may shed new light on sexual reproduction_](https://news.ki.se/a-molecule-from-ancient-bacteria-like-cells-may-shed-new-light-on-sexual-reproduction).
 - [_Technion researchers and international colleagues hypothesize that the cellular mechanisms enabling the fusion of sperm cells and egg cells originated 3 billion years ago_](https://www.technion.ac.il/en/2022/07/primordial-sexual-reproduction/).
 
-# ¿Te interesa el tema? ¡Colaborá con nosotros y sumate a estudiar a las _Fusexinas_!
-...
