@@ -2,7 +2,7 @@
 author: ""
 draft: false
 linktitle: "Pasantía de grado en fusógenos celulares"
-title: "*Fusogenos celulares*: maquinarias moleculares de relevancia para el estudio evolutivo"
+title: "*Fusógenos celulares*: maquinarias moleculares de relevancia para el estudio evolutivo"
 type: docs
 weight: 1
 output:
