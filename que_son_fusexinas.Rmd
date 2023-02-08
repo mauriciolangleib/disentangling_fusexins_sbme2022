@@ -20,7 +20,7 @@ Estos eventos están lejos de ser completamente azarosos y espontáneos: proteí
 
 # Búsqueda de fusógenos por métodos computacionales
 
-![](imgs/esquema_busqueda.png){width="90%"}
+![](imgs/esquema_busqueda.png){width="80%"}
 
 Estudios recientes de nuestro grupo de trabajo y colaboradores permitieron predecir y validar experimentalmente un fusógeno eucariota responsable de la fusión de gametos. Encontramos que este fusógeno es homólogo a los fusógenos de clase II de virus envueltos revelando un antiguo intercambio entre virus y eucariotas.
 
