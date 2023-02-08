@@ -1,8 +1,8 @@
 ---
 author: ""
 draft: false
-linktitle: Pasantía de grado en fusógenos celulares
-title: "Fusógenos celulares: maquinarias moleculares de relevancia para el estudio evolutivo"
+linktitle: "Pasantía de grado en fusógenos celulares"
+title: "*Fusógenos celulares*: maquinarias moleculares de relevancia para el estudio evolutivo"
 type: docs
 weight: 1
 output:
@@ -44,9 +44,8 @@ Durante el desarrollo de la pasantía de grado la persona aprenderá:
 
 Es de esperar que las herramientas adquiridas en biología computacional y análisis de datos biológicos desde una perspectiva evolutiva sirvan a él/la estudiante en el mediano y largo plazo sin importar el área en la cual elija desarrollarse a futuro.
 
-___
 **Si te interesa realizar tu pasantía de grado en este tema nos podés contactar a: mgrana@pasteur.edu.uy, eletor@fcien.edu.uy o mlangleib@pasteur.edu.uy**.
-___
+
 
 # Algunos trabajos de relevancia
 - [***Arabidopsis* HAP2/GCS1 is a gamete fusion protein homologous to somatic and viral fusogens**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5350521/pdf/JCB_201610093.pdf) 
