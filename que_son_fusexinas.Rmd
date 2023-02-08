@@ -1,8 +1,8 @@
 ---
 author: ""
 draft: false
-linktitle: ¿Qué son las fusexinas?
-title: "*Fusexinas*: una superfamilia de proteínas antiguas vinculadas al orígen de los eucariotas"
+linktitle: Pasantía de grado en fusógenos celulares
+title: "Fusógenos celulares: maquinarias moleculares de relevancia para el estudio evolutivo"
 type: docs
 weight: 1
 output:
